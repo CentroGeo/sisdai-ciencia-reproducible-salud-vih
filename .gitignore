@@ -1,0 +1,11 @@
+.idea
+.ipynb_checkpoints
+.DS_Store
+.Rhistory
+__pycache__/
+
+datos/datos_originales
+datos/datos_procesados
+
+datos/
+
