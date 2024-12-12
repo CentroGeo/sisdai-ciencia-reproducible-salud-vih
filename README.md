@@ -98,7 +98,15 @@ Este cuaderno contiene el código necesario para descargar los datos desde el po
 
 ### 04_linea_tiempo
 
-Este cuaderno contiene el código para el calculo del número, total  y porcentaje de pacientes que presentan resistencia a algún antirretroviral a partir de los datos descargados del portal y genera la visualización de: **I. Cambio en la proporción de participantes con resistencia a antirretrovirales a través del tiempo** 
+Este cuaderno contiene el código para el calculo la cantidad de pacientes presentan resistencia a algún antirretroviral a partir de los datos descargados del portal y genera la visualización de: **I. Cambio en la proporción de participantes con resistencia a antirretrovirales a través del tiempo**. Además, calcula la cantidad de participantes que pertenecen a un conglomerado y el número de conglomerados a través del tiempo y genera las visualizaciones de: **II. Participantes que conforman un conglomerado** y **III. Número de conglomerados en el tiempo**.
+
+### 05_barras_apiladas
+
+Este cuaderno contiene el código para el calculo del número de participantes que cuentan con seguridad social segun su género y crea la visualización de: **I. Segiridad social con respecto al género** y **II. Resistencia a antirretrovirales**.
+
+### 06_violines
+
+Este cuaderno contiene el código para el calculo de los participantes que cuentan con algún tipo de seguridad social segun su edad y crea la visualización de: **I. Segiridad social con respecto a la edad** y **II. Resistencia a antirretrovirales con respecto a la edad**.
 
 
 ## Licencia
