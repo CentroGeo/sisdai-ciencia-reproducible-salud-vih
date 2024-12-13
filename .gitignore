@@ -1,0 +1,12 @@
+.idea
+.ipynb_checkpoints
+.DS_Store
+.Rhistory
+__pycache__/
+
+# Específicos de este proyecto
+datos/datos_originales/*
+datos/datos_procesados/*
+
+
+
